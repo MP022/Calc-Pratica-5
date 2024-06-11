@@ -1,32 +1,10 @@
  #include <iostream>
  #include <string.h>
+ #include "./Calculadora.hpp" 
  
  using namespace std;
 
- class Calculadora
- {
- public:
-    int Soma(int a, int b);
-    int Sub(int a, int b);
-    int Multi(int a, int b);
- };
-
-int Calculadora::Soma(int a, int b)
-{
-    return a + b;
-}
-
-int Calculadora::Sub(int a, int b)
-{
-    return a - b;
-}
-
-int Calculadora::Multi(int a, int b)
-{
-    return a * b;
-}
-
-int main(int argc, char const *argv[])
+ int main(int argc, char const *argv[])
 {
     char repetir = '\0';
     do

@@ -1,0 +1,4 @@
+/home/mp022/Documentos/git/Calc-Pratica-5/build/CMakeFiles/mylib.dir
+/home/mp022/Documentos/git/Calc-Pratica-5/build/CMakeFiles/app.dir
+/home/mp022/Documentos/git/Calc-Pratica-5/build/CMakeFiles/edit_cache.dir
+/home/mp022/Documentos/git/Calc-Pratica-5/build/CMakeFiles/rebuild_cache.dir

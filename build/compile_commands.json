@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/mp022/Documentos/git/Calc-Pratica-5/build",
+  "command": "/usr/bin/c++  -I/home/mp022/Documentos/git/Calc-Pratica-5/lib  -o CMakeFiles/mylib.dir/lib/Calculadora.cpp.o -c /home/mp022/Documentos/git/Calc-Pratica-5/lib/Calculadora.cpp",
+  "file": "/home/mp022/Documentos/git/Calc-Pratica-5/lib/Calculadora.cpp"
+},
+{
+  "directory": "/home/mp022/Documentos/git/Calc-Pratica-5/build",
+  "command": "/usr/bin/c++  -I/home/mp022/Documentos/git/Calc-Pratica-5/lib  -o CMakeFiles/app.dir/main.cpp.o -c /home/mp022/Documentos/git/Calc-Pratica-5/main.cpp",
+  "file": "/home/mp022/Documentos/git/Calc-Pratica-5/main.cpp"
+}
+]
