@@ -23,7 +23,7 @@ if(BUILD_TESTS)
   message(STATUS "Building tests...")
 
   add_executable(tests 
-  tst/tst.cpp
+  tst/test.cpp
   )
 
   target_link_libraries(tests

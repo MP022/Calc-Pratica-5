@@ -6,12 +6,12 @@
 
  int main(int argc, char const *argv[])
 {
+    Calculadora calc;
     char repetir = '\0';
     do
     {
         int num1 = -1, num2 = -1;
         char operacao = -1;
-        Calculadora calc = Calculadora();
         cout << "Insira uma equação com o seguinte formato: <'Inteiro'> <'+' or '-' or '*'> <'Inteiro'>." << endl;
         cout << "Equação:";
         cin >> num1;
