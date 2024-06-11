@@ -30,3 +30,9 @@
 *.exe
 *.out
 *.app
+
+# ignore vscode config
+.vscode/
+
+#ignore results of vscode compilation
+Calculadora
